@@ -1,2 +1,2 @@
 # ATU
-En simpel percecptron-øvelse lavet til Gynasielæredag
+En simpel percecptron-øvelse lavet til ATU summercamp
